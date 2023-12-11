@@ -2,7 +2,7 @@ import { html, css } from "iares";
 
 const template = () => html`
   <div class="wrap-ctx">
-    <h1>Hello Word, I'm IARES!</h1>
+    <h1>Hello Word, LOGIN!</h1>
   </div>
 `;
 
@@ -20,4 +20,5 @@ const styles = () => css`
     justify-content: center;
     align-items: center;
   }
+  
 `;
